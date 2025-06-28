@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usama Sharif
 
-🎓 I'm a  Electrical Engineering student from Peshawar, majoring in Communication Systems.  
+🎓 I'm a  Electrical Engineering student from UET Peshawar (Jalozai campus), majoring in Communication Systems.  
 💻 I have hands-on experience in Machine Learning, Signal Processing, and Python-based simulations.  
 📚 This GitHub contains my academic projects, labs, and research work.
 
