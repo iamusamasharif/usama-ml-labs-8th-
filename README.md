@@ -12,5 +12,5 @@
 Labs
 - Machine Learning Lab
 
-📫 Reach me: usama.sharif@email.com
+📫 Reach me: muhammadusamasharif47@gmail.com
 
