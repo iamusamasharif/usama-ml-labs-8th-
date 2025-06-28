@@ -9,10 +9,8 @@
 - MATLAB, Simulink
 - Git & GitHub
 
-## 📌 Projects & Labs
-- Machine Learning Lab Assignments
-- Final Year Project: WDM Network Optimization using Deep Autoencoders
-- Digital Signal Processing Labs
+Labs
+- Machine Learning Lab
 
 📫 Reach me: usama.sharif@email.com
 
